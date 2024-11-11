@@ -111,7 +111,7 @@ txtGanjilGenap.addFocusListener(new FocusAdapter() {
 ```
 ## 6. Tampilan Saat di Run :
 
-  ![Screenshot 2024-11-08 001302](https://github.com/user-attachments/assets/cc38a883-e64f-4a1f-aaee-1a0c607d1abd)
+![image](https://github.com/user-attachments/assets/c0f712c0-0967-4fef-a25a-1a6ee4e8402a)
 
 ## Indikator Penilaian:
 
